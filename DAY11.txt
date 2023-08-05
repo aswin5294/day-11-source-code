@@ -80,7 +80,7 @@ and use SFLCRRRRN to select the account from window subfile.
 sum of numbers using built-in function %XFOOT().  
 
 
- Columns . . . :    6  76            Edit                      TEN29LIB/TRNGSRC 
+ Columns . . . :    6  76            Edit                      TEN33LIB/TRNGSRC 
  SEU==>                                                                RUNTIMER 
  FMT D  DName+++++++++++ETDsFrom+++To/L+++IDc.Keywords+++++++++++++++++++++++++ 
         *************** Beginning of data ************************************* 
@@ -175,7 +175,7 @@ messages and also to store the name of all month to get the date of joining in f
  4.  Write an RPGLE program for a Report Layout to print the salary of employees. 
 
 
- Columns . . . :    1  71        Design Report                 TEN29LIB/TRNGSRC 
+ Columns . . . :    1  71        Design Report                 TEN33LIB/TRNGSRC 
  RLU==>                                                                SALREPOP 
  BASE    ...+... 1 ...+... 2 ...+... 3 ...+... 4 ...+... 5 ...+... 6 ...+... 7  
         ------------------------- Start of Page 001 --------------------------- 
